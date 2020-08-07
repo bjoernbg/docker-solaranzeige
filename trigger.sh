@@ -1,2 +1,2 @@
-#!/bin/sh
-sh /solaranzeige-user-code/read.sh
+#!/bin/bash
+bash /solaranzeige-user-code/read.sh
